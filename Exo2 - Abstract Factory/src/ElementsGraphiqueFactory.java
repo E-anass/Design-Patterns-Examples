@@ -1,8 +1,8 @@
 
 public interface ElementsGraphiqueFactory {
-	
-	public void creerbouton();
-	public void creerTexte();
-	public void creerListeChoix();
+		
+	public Bouton creerbouton();
+	public Texte creerTexte();
+	public ListeChoix creerListeChoix();
 
 }

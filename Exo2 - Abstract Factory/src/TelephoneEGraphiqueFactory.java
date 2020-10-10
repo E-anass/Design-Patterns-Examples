@@ -2,21 +2,23 @@
 public class TelephoneEGraphiqueFactory implements ElementsGraphiqueFactory {
 
 	@Override
-	public void creerbouton() {
+	public Bouton creerbouton() {
 		// TODO Auto-generated method stub
-		
+		return null;
 	}
 
 	@Override
-	public void creerTexte() {
+	public Texte creerTexte() {
 		// TODO Auto-generated method stub
-		
+		return null;
 	}
 
 	@Override
-	public void creerListeChoix() {
+	public ListeChoix creerListeChoix() {
 		// TODO Auto-generated method stub
-		
+		return null;
 	}
+
+
 
 }

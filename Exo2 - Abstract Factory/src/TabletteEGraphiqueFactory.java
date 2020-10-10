@@ -2,21 +2,20 @@
 public class TabletteEGraphiqueFactory implements ElementsGraphiqueFactory {
 
 	@Override
-	public void creerbouton() {
-		// TODO Auto-generated method stub
-		
+	public Bouton creerbouton() {
+		return null;
 	}
 
 	@Override
-	public void creerTexte() {
-		// TODO Auto-generated method stub
-		
+	public Texte creerTexte() {
+		return null;
 	}
 
 	@Override
-	public void creerListeChoix() {
-		// TODO Auto-generated method stub
-		
+	public ListeChoix creerListeChoix() {
+		return null;
 	}
+
+
 
 }
