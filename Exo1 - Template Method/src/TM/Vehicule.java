@@ -6,7 +6,6 @@ public abstract class Vehicule {
 		Demarrer();
 			Marcher();
 			Tourner();
-		
 	}
 	
 	protected abstract boolean Demarrer();

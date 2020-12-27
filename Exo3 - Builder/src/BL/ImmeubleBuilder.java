@@ -1,6 +1,13 @@
 package BL;
 
 public class ImmeubleBuilder extends HabitationBuilder{
+	
+	
+	public void creerHabitation( int fenetres, int Pieces)
+    {
+			CreerFenetres(fenetres);
+			CreerPieces(Pieces);
+    }
 
 	@Override
 	void CreerPieces(int pieces) {		
