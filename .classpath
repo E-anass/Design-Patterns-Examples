@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exo1 - Template Method/src"/>
+	<classpathentry kind="src" path="Exo2 - Abstract Factory/src"/>
+	<classpathentry kind="src" path="Exo3 - Builder/src"/>
+	<classpathentry kind="src" path="Exo4 - Composite/src"/>
+	<classpathentry kind="src" path="Exo5 - Adapter/src"/>
+	<classpathentry kind="output" path="Exo1 - Template Method/bin"/>
+</classpath>
