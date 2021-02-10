@@ -4,7 +4,7 @@ public abstract class Vehicule {
 	
 	public void Se_deplacer() {	
 		Demarrer();
-			Marcher();
+			Avancer();
 			Tourner();
 	}
 	
